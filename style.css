@@ -44,7 +44,7 @@ main{
 .mensaje{
     height: 630px;
     background: white;
-    background-image: url("/imagenes/cabeza.gif");
+    background-image: url("/cabeza.gif");
     background-repeat: no-repeat;
     background-position: center;
     border: none;
